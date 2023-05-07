@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://jebaznadar.github.io/csb-cx4dip/static/css/main.0fedd0cd.css",
+    "main.js": "https://jebaznadar.github.io/csb-cx4dip/static/js/main.f7a1eb5d.js",
+    "index.html": "https://jebaznadar.github.io/csb-cx4dip/index.html",
+    "main.0fedd0cd.css.map": "https://jebaznadar.github.io/csb-cx4dip/static/css/main.0fedd0cd.css.map",
+    "main.f7a1eb5d.js.map": "https://jebaznadar.github.io/csb-cx4dip/static/js/main.f7a1eb5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fedd0cd.css",
+    "static/js/main.f7a1eb5d.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0fedd0cd.css","mappings":"AAAA,KACE,8BAAkC,CAClC,iBACF,CACA,QACE,mBACF","sources":["styles.css"],"sourcesContent":[".App {\n  font-family: \"Josefin Slab\", serif;\n  text-align: center;\n}\n.button {\n  border-radius: 0.5rem;\n}\n"],"names":[],"sourceRoot":""}
